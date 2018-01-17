@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Outside border/shadow -->
+    <item>
+        <shape android:shape="oval">
+            <size android:width="200dp" android:height="200dp" />
+            <gradient android:angle="90" android:startColor="#030303" android:endColor="#2d2828" />
+        </shape>
+    </item>
+
+    <!-- Inset -->
+    <item android:top="5dp" android:left="5dp" android:right="5dp" android:bottom="5dp">
+        <shape android:shape="oval">
+            <gradient android:angle="90" android:startColor="#ffffff" android:endColor="#ffffff" />
+        </shape>
+    </item>
+
+    <!-- Inside border/shadow -->
+    <item android:top="15dp" android:left="15dp" android:right="15dp" android:bottom="15dp">
+        <shape android:shape="oval">
+            <gradient android:angle="90" android:startColor="#8c8c8c" android:endColor="#cbcbcb" />
+        </shape>
+    </item>
+
+    <!-- Main button -->
+    <item android:top="16dp" android:left="16dp" android:right="16dp" android:bottom="16dp">
+        <shape android:shape="oval">
+            <solid android:color="#f50303" />
+        </shape>
+    </item>
+
+    <!-- Button image -->
+    <item android:top="70dp" android:left="70dp" android:right="70dp" android:bottom="70dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#000000" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+
+    <item  android:drawable="@drawable/ambulance" android:top="75dp" android:left="75dp" android:right="75dp" android:bottom="75dp">
+
+</item>
+</layer-list>

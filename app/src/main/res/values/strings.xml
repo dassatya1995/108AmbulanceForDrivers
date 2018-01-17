@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">108</string>
+    <string name="login"><b>Log in</b></string>
+    <string name="forgetpassword"><b><u>Forgot Password?</u></b></string>
+    <string name="signupSignup"><b>Already have an Account??<u>Login</u></b></string>
+    <string name="title_activity_welcome">108 Ambulance</string>
+    <string name="createyouraccount"><b><u>Create Your Account</u></b></string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_Logout">LogOut</string>
+    <string name="in_case_of_emergency_press_the_above_button">In case of Emergency press the above Button</string>
+
+
+    <string-array name="sex">
+        <item>Sex</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="terms"><u>Terms of use and Privacy Policy</u></string>
+    <string name="err_firstname">Please Enter a valid name</string>
+    <string name="err_email">Please enter a valid email id</string>
+    <string name="err_pass">create password using 0-9,A-Z,a-z,@ _ and without space</string>
+    <string name="err_repass">Password not matched</string>
+    <string name="about">Thankyou For embracing the concept.
+        This project is currently working for
+        Odisha only. We are scaling up infrastructure
+        to meet the higher level.  Please be patient and  support us in the journey to make india a safer nation</string>
+    <string name="username">UserName</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_staff">Welcome Staff</string>
+    <string name="thankyou_for_being_a_part_of_our_mission">Thankyou for being a part of our mission</string>
+    <string name="register_with_us_if_you_are_new">Register before you start driving</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_as_a_driver">Login as a Driver</string>
+
+</resources>

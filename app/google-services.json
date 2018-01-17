@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "466105087550",
+    "firebase_url": "https://ambulance-e75d1.firebaseio.com",
+    "project_id": "ambulance-e75d1",
+    "storage_bucket": "ambulance-e75d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466105087550:android:c08b8bb5c6344a47",
+        "android_client_info": {
+          "package_name": "com.example.smack_jack.a108ambulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466105087550-v7962pi3gcfuvi6b43ad7ghtrotc664h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smack_jack.a108ambulance",
+            "certificate_hash": "7a9986de4ee6bfc497517a7b9874c63224d98f30"
+          }
+        },
+        {
+          "client_id": "466105087550-2kund67uijab5v3m7kjldmr89etng2t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9aqL1tJvof9rgmdhczIaAEr-caVpXxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466105087550-2kund67uijab5v3m7kjldmr89etng2t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466105087550:android:eca3963fae73d435",
+        "android_client_info": {
+          "package_name": "com.example.satyajit.a108ambulancefordrivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466105087550-r884qv6onplde4j2h7jm73og5eus6l8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.satyajit.a108ambulancefordrivers",
+            "certificate_hash": "7a9986de4ee6bfc497517a7b9874c63224d98f30"
+          }
+        },
+        {
+          "client_id": "466105087550-2kund67uijab5v3m7kjldmr89etng2t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv9aqL1tJvof9rgmdhczIaAEr-caVpXxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466105087550-2kund67uijab5v3m7kjldmr89etng2t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
